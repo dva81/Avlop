@@ -12,7 +12,13 @@ This repository contains all Power platform configurations used for their Micros
 # Table of Contents
 
 
-- [ ] Invoice Solution
-- [ ] provisioning flows
-
+- [ ] InvoiceGenerator
+- [ ] CreateTeamsSite
+- [ ] StrucutredPaymentInfo
  
+# Contributions
+Special thanks to For helping me out!
+
+Feline Parein -  https://www.linkedin.com/in/feline-parein/
+
+Thao de Clercq - https://www.linkedin.com/in/thao-de-clercq/
