@@ -1,4 +1,4 @@
-# Avlop Invoice Generator
+# Invoice Generator
 
 The accountant currently still uses Excel for generating invoices due to its convenient features for calculating totals and creating invoice lines. However, this approach has some drawbacks as it leads to a large number of separate files being created and requires additional steps of printing or exporting the documents before they can be sent. To address these issues and improve the invoicing process, the following suggestions can be considered:
 
@@ -37,7 +37,7 @@ Optional features
   - UBL 2.1 example instance xml/UBL-Invoice-2.1-Example-Trivial.xml
  
 
-
+https://player.vimeo.com/video/840376976?h=45896f70bc
 
 ![Screenshot 2023-06-28 101255](https://github.com/dva81/Avlop/assets/65031840/b5520dba-edc4-4a57-8192-4f0593b3dfd7)
 ![Screenshot 2023-06-28 101505](https://github.com/dva81/Avlop/assets/65031840/3e7e6012-b8f7-4fdd-bcc4-18887e29ab09)
