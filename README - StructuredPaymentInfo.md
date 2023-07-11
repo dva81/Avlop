@@ -1,18 +1,4 @@
-# Avlop 
-Avlop is a leading expert in sewer services, offering a comprehensive range of solutions for clients. With a pragmatic and efficient approach, Avlop has become a reliable partner for all sewer-related projects. 
+# Structured payment information for control
 
-The management and maintenance of sewer systems present significant challenges for various stakeholders. There is a growing need for a trusted partner capable of effectively addressing the complexities of sewer infrastructure. Limited availability of comprehensive services, inadequate inspection techniques, and a lack of specialized expertise have resulted in inefficiencies and suboptimal performance in sewer network management.
+One of the key advantages of the Invoice generator app is its ability to facilitate structured communication (+++000/0950/00281+++) , ensuring accuracy and consistency in invoice creation. It uses a standardized format that incorporates the Customer ID, Invoice number, and a module97 algorithm, making it easy to verify invoice details against the bank's list. By implementing this system, businesses can avoid potential errors and confidently track payments with greater precision.
 
-Avlop addresses this crucial market gap by providing an all-encompassing suite of services to meet clients' diverse needs. With a team of highly skilled professionals and state-of-the-art technology, Avlop offers solutions such as sewer system inspections, evaluation of sewer connections, as-built plan preparation, advanced testing methods, and diligent on-site supervision.
-
-# Solution
-
-This repository contains all Power platform configurations used for their Microsoft 365 solution.
-
-# Table of Contents
-
-
-- [ ] Invoice Solution
-- [ ] provisioning flows
-
- 
