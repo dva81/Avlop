@@ -7,7 +7,8 @@ This repository contains some Power platform configurations used for Avlops Micr
 
 - [ ] InvoiceGenerator
 - [ ] CreateTeamsSite
-- [ ] StrucutredPaymentInfo
+- [ ] StructuredPaymentInfo
+- [ ] Resize-Image Azure Function App
  
 # Contributions
 Special thanks to For helping me out!
