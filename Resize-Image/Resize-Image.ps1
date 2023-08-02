@@ -105,6 +105,10 @@ $Extension = $Request.Body.Extension
 $Input = $Request.Body.InputFile
 write-Host $Request.Body
 Write-Host $name
+
+if($Extension -eq 'jpg')
+{$Extension = "jpeg" }
+
 Write-Host $Extension
 
 $statusCode = [HttpStatusCode]::OK
